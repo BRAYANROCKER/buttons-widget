@@ -1,16 +1,16 @@
 {
   "buttons": [
-    { "title": "Juegos", "https://brayanrockertv.wixsite.com/inicio": "https://ejemplo.com/juegos" },
-    { "title": "APK", "url": "https://ejemplo.com/apk" },
-    { "title": "PS4", "url": "https://ejemplo.com/ps4" },
-    { "title": "Programas", "url": "https://ejemplo.com/programas" },
-    { "title": "Series", "url": "https://ejemplo.com/series" },
-    { "title": "Películas", "url": "https://ejemplo.com/peliculas" },
-    { "title": "Música", "url": "https://ejemplo.com/musica" },
-    { "title": "Libros", "url": "https://ejemplo.com/libros" },
-    { "title": "Tutoriales", "url": "https://ejemplo.com/tutoriales" },
-    { "title": "Herramientas", "url": "https://ejemplo.com/herramientas" },
-    { "title": "Cursos", "url": "https://ejemplo.com/cursos" },
-    { "title": "Recursos", "url": "https://ejemplo.com/recursos" }
+    { "title": "Juegos", "url": "https://www.google.com" },
+    { "title": "APK", "url": "https://www.wikipedia.org" },
+    { "title": "PS4", "url": "https://www.playstation.com" },
+    { "title": "Programas", "url": "https://www.microsoft.com" },
+    { "title": "Series", "url": "https://www.netflix.com" },
+    { "title": "Películas", "url": "https://www.imdb.com" },
+    { "title": "Música", "url": "https://www.spotify.com" },
+    { "title": "Libros", "url": "https://www.amazon.com" },
+    { "title": "Tutoriales", "url": "https://www.youtube.com" },
+    { "title": "Herramientas", "url": "https://www.github.com" },
+    { "title": "Cursos", "url": "https://www.coursera.org" },
+    { "title": "Recursos", "url": "https://www.freecodecamp.org" }
   ]
 }
