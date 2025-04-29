@@ -1,17 +1,13 @@
 {
   "buttons": [
-    { "title": "Juegos", "url": "https://rebrand.ly/BrayanRockerWeb" },
-    { "title": "APK", "url": "https://www.wikipedia.org" },
-    { "title": "PS4", "url": "https://www.playstation.com" },
-    { "title": "Programas", "url": "https://www.microsoft.com" },
-    { "title": "Series", "url": "https://www.netflix.com" },
-    { "title": "Películas", "url": "https://www.imdb.com" },
-    { "title": "Música", "url": "https://www.spotify.com" },
-    { "title": "Libros", "url": "https://www.amazon.com" },
-    { "title": "Tutoriales", "url": "https://www.youtube.com" },
-    { "title": "Herramientas", "url": "https://www.github.com" },
-    { "title": "Cursos", "url": "https://www.coursera.org" },
-    { "title": "Recursos", "url": "https://www.fr.org" },
-    { "title": "Recursos", "url": "https://www.freec.org" }
+    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
+    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
+    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
+    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
+    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
+    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
+    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
+    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
+    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
   ]
 }
