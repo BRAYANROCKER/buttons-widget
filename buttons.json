@@ -1,13 +1,7 @@
 {
   "buttons": [
-    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
-    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
-    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
-    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
-    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
-    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
-    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
-    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
-    { "title": "-", "url": "https://rebrand.ly/BrayanRockerWeb" },
+    { "title": "Novedades", "url": "https://rebrand.ly/NuevaPagina" },
+    { "title": "Descargas", "url": "https://rebrand.ly/Descargas" },
+    { "title": "PS5", "url": "https://rebrand.ly/PS5Gratis" }
   ]
 }
