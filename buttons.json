@@ -1,7 +1,8 @@
 {
   "buttons": [
-    { "title": "-", "url": "https://rebrand.ly/BrayanRocker" },
-    { "title": "-", "url": "https://rebrand.ly/BrayanRocker" },
-    { "title": "-", "url": "https://rebrand.ly/BrayanRocker" }
+    { "title": "Blog", "url": "https://rebrand.ly/BrayanRockerWeb" },
+    { "title": "Series", "url": "https://rebrand.ly/MasSeriesGratis" },
+    { "title": "Libros", "url": "https://rebrand.ly/MasLibrosGratis" }
   ]
 }
+
