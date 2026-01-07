@@ -1,8 +1,10 @@
 {
   "buttons": [
-    { "title": "Blog", "url": "https://rebrand.ly/BrayanRockerWeb" },
+    { "title": "Inicio", "url": "https://rebrand.ly/BrayanRockerWeb" },
     { "title": "Series", "url": "https://rebrand.ly/MasSeriesGratis" },
+    { "title": "Cursos", "url": "https://rebrand.ly/MasCursosGratis" },
     { "title": "Libros", "url": "https://rebrand.ly/MasLibrosGratis" }
   ]
 }
+
 
